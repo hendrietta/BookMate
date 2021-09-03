@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="button_addBook">Add Book</string>
+    <string name="hint_bookTitle">BookTitle</string>
+    <string name="hint_bookDescription">Description </string>
+    <string name="hint_release">Release Date </string>
+    <string name="menu_addBook">Add</string>
+    <string name="menu_cancelBook">Cancel</string>
+    <string name="enter_book_title"> Please enter a Book Title </string>
+    <string name="enter_book_description"> Please enter the Book  Description </string>
+    <string name="enter_Book_release"> Please enter the Book release date</string>
+    <string name="save_Book"> Save Book </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_book_image">Select book  image</string>
+    <string name="change_book_image">Change book  image</string>
+    <string name="book_image">movie image</string>
+    <string name="menu_deleteBook">Delete</string>
+    <string name="search_title" />
+</resources>
